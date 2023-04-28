@@ -1,0 +1,24 @@
+h1 {
+    color: green;
+    font-family: italic;
+    font-size: 3em;
+    align-items: center;
+  }
+  button {
+    font-size: 28;
+    font-family: "Courier New", Courier, monospace;
+  }
+  input {
+    margin: 5px;
+    padding: 10px;
+    font-size: 20px;
+    background-color: white;
+    border: 10px solid black;
+  }
+  .equal {
+    font-size: 50px;
+  }
+  #button{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
